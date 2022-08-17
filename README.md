@@ -8,5 +8,5 @@ Vending Machine CLI - a basic vending machine CLI that demonstrates basic CRUD u
 TEnmo - A venmo-like application using HTTP requests and RESTful API's to manage money transactions.
 
 
-###Keep in touch
+### Keep in touch
 ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-lopez-a67151172/) and feel free message me and tell me about the projects you're currently working on!
