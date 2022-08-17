@@ -24,4 +24,4 @@ TEnmo - A venmo-like application using HTTP requests and RESTful API's to manage
 ### What I'm working on: 
 *** Learning more about mockups and UI design. Stay tuned for a finished product *** 
 
-![F1 stats app dashboard](https://imgur.com/dc9XOhq)
+![F1 stats app dashboard](https://i.imgur.com/dc9XOhq.jpg)
