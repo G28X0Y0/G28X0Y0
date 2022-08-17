@@ -19,3 +19,9 @@ TEnmo - A venmo-like application using HTTP requests and RESTful API's to manage
 
 ### Keep in touch
 ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-lopez-a67151172/) and feel free message me and tell me about the projects you're currently working on!
+
+
+### What I'm working on: 
+*** Learning more about mockups and UI design. Stay tuned for a finished product *** 
+
+![F1 stats app dashboard](https://imgur.com/dc9XOhq)
