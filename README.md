@@ -7,6 +7,8 @@ Vending Machine CLI - a basic vending machine CLI that demonstrates basic CRUD u
 
 TEnmo - A venmo-like application using HTTP requests and RESTful API's to manage money transactions.
 
+National Weather Service - A web application with a UI that gets weather from different locations. Uses REST practices.
+
 ### What I'm interested in:
 - Making cool software
 - Data sciences(Pandas, PostgreSQL, Tensor)
