@@ -24,6 +24,9 @@ National Weather Service - A web application with a UI that gets weather from di
 
 
 ### What I'm working on: 
--- Currently learning more about next.js
--- Building a small, lightweight chat app using websockets
--- Studying more about threads in Java
+
+- Currently learning more about next.js
+
+- Building a small, lightweight chat app using websockets
+
+- Studying more about threads in Java
