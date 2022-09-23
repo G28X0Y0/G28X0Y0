@@ -24,6 +24,6 @@ National Weather Service - A web application with a UI that gets weather from di
 
 
 ### What I'm working on: 
-*** Learning more about mockups and UI design. Stay tuned for a finished product *** 
-
-![F1 stats app dashboard](https://i.imgur.com/dc9XOhq.jpg)
+-- Currently learning more about next.js
+-- Building a small, lightweight chat app using websockets
+-- Studying more about threads in Java
