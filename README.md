@@ -1,6 +1,6 @@
 Hi! 🧐 Here are some of my projects and source code.
 
-Currently, I'm attending Tech Elevator, a 14 week software bootcamp.
+Currently job hunting after graduation from Tech Elevator, a 14 week software bootcamp.
 
 ### Recent projects:
 Vending Machine CLI - a basic vending machine CLI that demonstrates basic CRUD usage.
