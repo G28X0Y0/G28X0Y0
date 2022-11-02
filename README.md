@@ -9,6 +9,8 @@ TEnmo - A venmo-like application using HTTP requests and RESTful API's to manage
 
 National Weather Service - A web application with a UI that gets weather from different locations. Uses REST practices.
 
+VELOcity- a bicycling tracking app for creating, logging, and editing bicycling activities. Full stack with Google Maps API integration. WIP
+
 ### What I'm interested in:
 - Making cool software
 - Data sciences(Pandas, PostgreSQL, Tensor)
@@ -25,9 +27,7 @@ National Weather Service - A web application with a UI that gets weather from di
 
 ### What I'm working on: 
 
-- Bicycling tracking web service
+- Currently learning more about next.js and front-end design
 
-- Currently learning more about next.js
-
-- Building a small, lightweight chat app using websockets
+- Building my portfolio page
 
