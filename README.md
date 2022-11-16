@@ -29,5 +29,5 @@ VELOcity- a bicycling tracking app for creating, logging, and editing bicycling 
 
 - Currently learning more about next.js and front-end design
 
-- Building my portfolio page
+- Layaway SaaS
 
